@@ -1,0 +1,28 @@
+{
+  "name": "tus-resumable",
+  "version": "1.0.0",
+  "description": "Node.js tus server using uppy file uploader",
+  "main": "demo/server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelerod12/tus-node-server.git"
+  },
+  "keywords": [
+    "tus",
+    "framework",
+    "resumable",
+    "upload",
+    "protocol",
+    "api",
+    "server"
+  ],
+  "author": "Eduard Chirila <chirila_eddy@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axelerod12/tus-node-server/issues"
+  },
+  "homepage": "https://github.com/axelerod12/tus-node-server#readme",
+  "dependencies": {
+    "tus-node-server": "^0.3.2"
+  }
+}
